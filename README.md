@@ -30,6 +30,18 @@ Objectives:
 
 ## 2. FrontEnd mission (Feb. 14 - Mar. 24, 2022)
 
+| Project | Description | Repo link | Website link |
+| ------- |:----------- | --------- |:------------ |
+| Abogabot | Project requirements, buyer persona, objective customer, UX, UI | [Repo](https://github.com/rickygzz/rickygzz.github.io/tree/main/01) |
+| Cake-co | A LaunchX FrontEnd practice | [Initial Repo](https://github.com/rickygzz/FrontEnd-Mision-02-HTML), [Published Repo](https://github.com/rickygzz/rickygzz.github.io/tree/main/02) | https://rickygzz.github.io/02/ |
+| Vaccination | This website replicates a web design made PNG using CSS and HTML exentsively. | [Repo](https://github.com/rickygzz/rickygzz.github.io/tree/main/03) | https://rickygzz.github.io/03/ |
+| PokeDex | Using Pokedex API | [Repo](https://github.com/rickygzz/rickygzz.github.io/tree/main/03) | https://rickygzz.github.io/04/ |
+
+
+https://github.com/rickygzz/FrontEnd-Mision-02-HTML
+
+
+
 ## 3. BackEnd mission: JavaScript (Apr. 1 - May. 12, 2022)
 
 ## 4. Hackathon (May. 13 - May. 15, 2022)
